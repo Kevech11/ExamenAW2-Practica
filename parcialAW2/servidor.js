@@ -1,7 +1,14 @@
 const express = require('express');
 
 const servidor = express();
-const port = 3005;
+const port = 5500
+
+
+
+
+
+
+
 
 //servidor q escucha todo el tiempo
 servidor.listen(port, () => {
